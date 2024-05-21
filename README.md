@@ -20,8 +20,8 @@ This project demonstrates how to build a Language Model (LLM) as an API using Fa
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
+git clone https://github.com/abdoolamunir/LLM_as_API.git
+cd LLM_as_API
 ```
 
 ### 2.Create a Virtual Environment
